@@ -1,6 +1,5 @@
 // types
-import ReactTapEvent from './reactTapEvent';
-import TapEvent from './tapEvent';
+import { ReactTapEvent, TapEvent } from 'types';
 
 /**
  * Handles clientX and clientY for both mouse and touch events.
